@@ -1,20 +1,22 @@
-# Newsletter
+# newsletter
 
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://ipn.io)
 [![](https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-square)](http://ipfs.io/)
 [![](https://img.shields.io/badge/freenode-%23ipfs-blue.svg?style=flat-square)](http://webchat.freenode.net/?channels=%23ipfs)
-
-[![](https://cdn.rawgit.com/jbenet/contribute-ipfs-gif/master/img/contribute.gif)](https://github.com/ipfs/community/blob/master/contributing.md)
+[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 Prepare and store our newsletter.
 
-- [Idea](#idea)
-- [Contribute](#contribute)
-- [This repo](#this-repo)
+## Table of Contents
+
+- [Background](#background)
+  - [This repo](#this-repo)
   - [Process for writing the Newsletter](#process-for-writing-the-newsletter)
   - [Styleguide & Suggestions](#styleguide-&-suggestions)
+- [Contribute](#contribute)
+- [License](#license)
 
-## Idea
+## Background
 
 Similar to the [Rust community's](https://this-week-in-rust.org/), we want to have a newsletter that talks about what was done in the past week by varous contributors. This will help:
 
@@ -22,19 +24,7 @@ Similar to the [Rust community's](https://this-week-in-rust.org/), we want to ha
 - Tell active contributors when new versions or tools are available.
 - Attribute developers who have contributed to open-source software related to IPFS.
 
-## Contribute
-
-The Newsletter takes a _lot of work_. This work can best be done by being distributed. If you know of anything cool that happens in a given week, anything that other people might be excited about, add it to the newsletter by adding a comment about it to the PR or Issue for that week's newsletter.
-
-Here are the steps to do that:
- - See something cool, or make something cool.
- - Go to the open PR for that week's newsletter.
- - Add a comment about the thing. Add a link, if possible.
- - Revel in the knowledge you are great.
-
-Also, please help us out if you think the roundup could be better! [Open an issue!](https://github.com/ipfs/newsletter/issues/new)
-
-## This repo
+### This repo
 
 - Stores the final versions for past newsletters, posted elsewhere - the blog, email, and so on;
 - Tracks issues related to the roundups in the [issues](https://github.com/ipfs/newsletter/issues/);
@@ -72,3 +62,22 @@ If you need a core contributor to do this, get in touch with [@RichardLitt](//gi
     2. there is a call to action -- opinions are needed.
     3. it is specially useful to draw attention to something in the newsletter.
 
+## Contribute
+
+The Newsletter takes a _lot of work_. This work can best be done by being distributed. If you know of anything cool that happens in a given week, anything that other people might be excited about, add it to the newsletter by adding a comment about it to the PR or Issue for that week's newsletter.
+
+Here are the steps to do that:
+ - See something cool, or make something cool.
+ - Go to the open PR for that week's newsletter.
+ - Add a comment about the thing. Add a link, if possible.
+ - Revel in the knowledge you are great.
+
+Also, please help us out if you think the roundup could be better! [Open an issue!](https://github.com/ipfs/newsletter/issues/new)
+
+This repository falls under the IPFS [Code of Conduct](https://github.com/ipfs/community/blob/master/code-of-conduct.md).
+
+[![](https://cdn.rawgit.com/jbenet/contribute-ipfs-gif/master/img/contribute.gif)](https://github.com/ipfs/community/blob/master/contributing.md)
+
+## License
+
+[MIT](LICENSE)
